@@ -2,7 +2,7 @@
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿입니다.
 title: ''
-labels: Dail-Scrum
+labels: ''
 assignees: ''
 
 ---
